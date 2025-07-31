@@ -23,7 +23,9 @@ The dataset acn also be downloaded fron the following URL: https://www.kaggle.co
 ## Setup Instructions
 
 1. **Environment setup**:
+   
    Python version and the exact versions of the libraraies used during the development and execution of the model are provided in the **requirements.txt.file**.
+   Anaconda navigator with Jupyter Notebook was used for the development and testing purposes of this model.
    Following libraries are rquired to be installed before running the model:
       - tensorflow               
       - numpy                     
@@ -32,9 +34,10 @@ The dataset acn also be downloaded fron the following URL: https://www.kaggle.co
       - matplotlib              
       - keras                              
       - tf-keras
-    Anaconda navigator with Jupyter Notebook was used for the development and testing purposes of this model.
+    
    
 2. **How to run the mode**:
+   
   2.1. Create the environment according to the requirements.txt file.
   2.2. Run Jupyter notebook in that environment.
   2.3. Create a directory and copy the given dataset.
