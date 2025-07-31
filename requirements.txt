@@ -1,0 +1,10 @@
+Python 3.12.11
+
+# Name                    Version                   
+tensorflow                2.18.1
+numpy                     2.0.1
+pandas                    2.2.3
+seaborn                   0.13.2
+matplotlib                3.10.0
+keras                     3.6.0           
+tf-keras                  2.18.0
