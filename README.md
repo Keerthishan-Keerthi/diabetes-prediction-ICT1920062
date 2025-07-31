@@ -37,10 +37,9 @@ The dataset acn also be downloaded fron the following URL: https://www.kaggle.co
     
    
 2. **How to run the mode**:
-   
-  2.1. Create the environment according to the requirements.txt file.
-  2.2. Run Jupyter notebook in that environment.
-  2.3. Create a directory and copy the given dataset.
-  2.4. Run the model.
+   - Create the environment according to the requirements.txt file.
+   - Run Jupyter notebook in that environment.
+   - Create a directory and copy the given dataset.
+   - Run the model.
 
 
